@@ -143,6 +143,8 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 010fcce2628f2a0459a4c1fd6d2c664f, type: 2}
+  - {fileID: 3120560766192047456, guid: aa5c724165da8e34da53d6dfe6fca401, type: 2}
+  - {fileID: 8034458522408479350, guid: 6acfbd984eecb734591f09300f165323, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -268,7 +270,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: user.keystore'
-  AndroidKeyaliasName: immersegt
+  AndroidKeyaliasName: daksh
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0

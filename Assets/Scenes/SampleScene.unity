@@ -939,7 +939,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dictationExperience: {fileID: 1298463338}
-  jsonApi: {fileID: 4900000, guid: 67cd77b2c2b71bf4ca64ee19d692a129, type: 3}
+  jsonApi: {fileID: 0}
   lastPromptText: 
   meshPrefabs:
   - {fileID: 8454751687777284414, guid: d1f2f48edc0aea241937f433ec7004a6, type: 3}
